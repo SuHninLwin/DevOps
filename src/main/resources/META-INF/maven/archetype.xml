@@ -1,0 +1,9 @@
+<archetype>
+  <id>DevOps_gp4</id>
+  <sources>
+    <source>src/main/java/App1.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
